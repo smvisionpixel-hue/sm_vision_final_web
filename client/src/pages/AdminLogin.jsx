@@ -130,8 +130,6 @@ const AdminLogin = () => {
           </div>
         </form>
 
-        <div className="pt-4 border-t border-slate-100 text-center">
-        </div>
       </div>
     </div>
   );
