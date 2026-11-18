@@ -15,12 +15,11 @@ const BrandLogo = ({
         light ? 'bg-blue-600 group-hover:bg-blue-500 text-white' : 'bg-[#0A192F] group-hover:bg-blue-600 text-white'
       }`}>
         {/* Abstract SM & Pixel Aperture */}
-        <svg viewBox="0 0 40 40" className="w-6 h-6" fill="none" xmlns="http://www.w3.org/2000/svg">
-          <path d="M11 26L17 12H21L27 26" stroke="#FFFFFF" strokeWidth="2.8" strokeLinecap="round" strokeLinejoin="round"/>
-          <path d="M13.5 21H24.5" stroke="#38BDF8" strokeWidth="2.8" strokeLinecap="round"/>
-          <circle cx="19" cy="11" r="1.8" fill="#38BDF8"/>
-          <rect x="17.5" y="19.5" width="3" height="3" rx="0.5" fill="#FFFFFF"/>
-        </svg>
+        <img
+          src="/logo.jpeg"
+          alt="SM Vision Pixel Logo"
+          className="w-full h-full object-cover"
+        />
       </div>
 
       {variant === 'full' && (
