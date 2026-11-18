@@ -52,7 +52,7 @@ export const TEAM_MEMBERS = [
   },
   {
     id: 6,
-    name: "Ashutosh",
+    name: "Ashutosh Srivastava",
     designation: "website developer",
     bio: "Architecting responsive, high-performance web applications, interactive interfaces, clean architectures, and modern digital experiences.",
     image: "/placeholders/team-placeholder.svg",
