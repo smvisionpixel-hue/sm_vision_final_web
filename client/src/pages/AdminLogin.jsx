@@ -131,9 +131,6 @@ const AdminLogin = () => {
         </form>
 
         <div className="pt-4 border-t border-slate-100 text-center">
-          <p className="text-[11px] text-slate-400">
-            Initial credentials configured in server <code className="font-mono bg-slate-100 px-1 py-0.5 rounded">.env</code>.
-          </p>
         </div>
       </div>
     </div>
