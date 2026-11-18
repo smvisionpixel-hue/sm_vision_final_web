@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450" fill="none">
+  <rect width="600" height="450" fill="#0A192F"/>
+  <rect x="30" y="30" width="540" height="390" rx="16" fill="#0F213D" stroke="#1E3A8A" stroke-width="2"/>
+  <circle cx="300" cy="180" r="45" fill="#3B82F6" fill-opacity="0.2"/>
+  <path d="M280 180 C280 165, 320 165, 320 180 C320 195, 280 195, 280 210" stroke="#38BDF8" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="300" cy="180" r="15" fill="#60A5FA"/>
+  <text x="300" y="270" font-family="Poppins, sans-serif" font-size="20" font-weight="600" fill="#FFFFFF" text-anchor="middle" letter-spacing="0.5">Creative Marketing Campaign</text>
+  <text x="300" y="300" font-family="Inter, sans-serif" font-size="13" fill="#94A3B8" text-anchor="middle">Editable Portfolio Placeholder &bull; Multi-Channel Creative Strategy</text>
+  <rect x="230" y="330" width="140" height="32" rx="16" fill="#2563EB" fill-opacity="0.2" stroke="#2563EB" stroke-width="1"/>
+  <text x="300" y="351" font-family="Inter, sans-serif" font-size="12" font-weight="600" fill="#60A5FA" text-anchor="middle">Creative Strategy</text>
+</svg>
